@@ -1,10 +1,10 @@
-MiniGameAppRN 🎮
+# MiniGameAppRN 🎮
 
 Este é um projeto de aplicativo mobile desenvolvido com React Native.
 
 O jogo consiste em o celular tentar adivinhar o número escolhido pelo usuário, com base em dicas de "maior" ou "menor".
 
-📱 Funcionalidades
+## 📱 Funcionalidades
 
 - Tela inicial para o usuário escolher um número
 - Tela de jogo onde o celular tenta adivinhar o número
@@ -12,7 +12,7 @@ O jogo consiste em o celular tentar adivinhar o número escolhido pelo usuário,
 - Histórico de palpites com FlatList
 - Componentes reutilizáveis como Card, Title, PrimaryButton, GuessLogItem, etc.
 
-🚀 Instalação
+## 🚀 Instalação
 
 1. Clone o repositório:
    git clone https://github.com/seu-usuario/MiniGameAppRN.git
@@ -24,7 +24,7 @@ O jogo consiste em o celular tentar adivinhar o número escolhido pelo usuário,
 3. Inicie o projeto com Expo:
    npx expo start
 
-🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 
 - React Native
 - Expo
